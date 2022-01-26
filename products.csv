@@ -1,0 +1,8 @@
+product_id;product_name;brand;supplier;department;category
+1;P1;BR1;Z1;DEP1;CAT3
+2;P2;BR2;Z2;DEP2;CAT2
+3;P3;BR3;Z3;DEP3;CAT4
+4;P4;BR4;Z4;DEP4;CAT3
+5;P5;BR5;Z5;DEP2;CAT1
+6;P6;BR6;Z6;DEP4;CAT1
+7;P7;BR7;Z7;DEP3;CAT2
